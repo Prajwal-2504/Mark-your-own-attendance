@@ -3,5 +3,5 @@ This repository contains the source code for a self-managed attendance tracking 
 ✅ Present,
 ❌ Absent,
 🚫 Class Cancelled. 
-Users have full control over their attendance records, making it ideal for tracking study routines, self-discipline, or personal productivity. The interface is simple, intuitive, and built for flexibility—no external validation, no institutional oversight. 
-**⚠️ Important Notice This tool is not affiliated with any school, college, organization, or official system. It is intended solely for individual tracking and cannot be used for formal reporting, verification, or academic/professional records.**
+Users have full control over their attendance records, making it ideal for tracking study routines, self-discipline, or personal productivity. The interface is simple, intuitive, and built for flexibility : no external validation, no institutional oversight! 
+**⚠️ Important Notice : This tool is not affiliated with any school, college, organization, or official system. It is intended solely for individual tracking and cannot be used for formal reporting, verification, or academic/professional records!**
